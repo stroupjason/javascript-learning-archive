@@ -1,0 +1,7 @@
+
+# macOS
+.DS_Store
+
+# JavaScript
+node_modules/
+.env
