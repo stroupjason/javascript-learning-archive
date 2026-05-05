@@ -1,28 +1,33 @@
-# Welcome to the freeCodeCamp Curriculum, my Projects, Portfolio, and Certifications!
+# JavaScript Learning Archive — Revived in 2026
 
-  We have thousands of coding lessons to help you improve your skills.
+This repository documents my long-term return to JavaScript, front-end fundamentals, and technical problem solving.
 
-  You can earn each certification by completing its 5 final projects.
+I originally started this freeCodeCamp curriculum work years ago, paused, and revived the repository in 2026 with a more disciplined and career-focused approach. My goal is not just to complete coding exercises, but to rebuild a strong JavaScript foundation that supports my work in technical support, customer engineering, application support, API troubleshooting, and future CSE/FDE-style roles.
 
-  Take a look at my online profile: https://www.freecodecamp.org/stroupjason
+## freeCodeCamp Profile
 
-## Responsive Web Design Certification (300 hours)
-  * Basic HTML and HTML5
-  * Basic CSS
-  * Applied Visual Design
-  * Responsive Web Design Principles
-  * CSS Flexbox
-  * CSS Grid
-  * Responsive Web Design Projects
-    1. Build a Tribute page
-    2. Build a Survey page
-    3. Build a Product landing page
-    4. Build a Technical Documentation page
-    5. Build a Personal Portfolio Webpage
+You can view my freeCodeCamp profile here:
 
-## Javascript Algorithms And Data Structures Certification (300 hours)
-## Front End Libraries Certification (300 hours)
-## Data Visualization Certification (300 hours)
-## Apis And Microservices Certification (300 hours)
-## Information Security And Quality Assurance Certification (300 hours)
-## Coding Interview Prep (Thousands of hours of challenges)
+[freeCodeCamp Profile — stroupjason](https://www.freecodecamp.org/stroupjason)
+
+
+## Current Focus
+
+- freeCodeCamp JavaScript Algorithms and Data Structures Certification
+- JavaScript fundamentals: variables, strings, functions, arrays, objects, DOM events, async code, and API calls
+- Pluralsight JavaScript 2022 path as a professional reinforcement layer
+- Weekly learning logs and small support-engineering mini-projects
+
+## Repository Structure
+
+- `2019-responsive-web-design/` — archived original freeCodeCamp responsive web design work
+- `2026-javascript-certification/` — active JavaScript certification practice and projects
+- `pluralsight-javascript-2022/` — notes and labs from Pluralsight’s JavaScript path
+- `weekly-learning-logs/` — weekly summaries of what I practiced, debugged, and learned
+- `support-engineering-mini-projects/` — applied projects that connect JavaScript to troubleshooting and customer-facing technical work
+
+## Why This Repo Exists
+
+This is a public learning trail. It shows consistency, growth, and the process of rebuilding fundamentals through hands-on practice.
+
+The goal is not perfection. The goal is visible progress.
