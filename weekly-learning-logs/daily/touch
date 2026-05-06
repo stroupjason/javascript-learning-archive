@@ -1,0 +1,40 @@
+# May 5, 2026 — JavaScript Learning Log
+
+## Time Studied
+
+FCC JavaScript: ~1 hour 52 minutes  
+Current running FCC total: ~4 hours 17 minutes
+
+## Focus Areas
+
+Today I continued working through the freeCodeCamp JavaScript Certification, with a focus on:
+
+- Data types
+- Working with strings
+- The `prompt()` method
+- `document.getElementById()`
+- `addEventListener()`
+- `output.textContent`
+- Click event flow
+- Intro exposure to arrow function callbacks
+
+## Main Win
+
+The biggest win today was slowing down and really understanding the browser interaction flow:
+
+1. Select an HTML element with `document.getElementById()`
+2. Attach a click listener with `addEventListener()`
+3. Run a callback function when the button is clicked
+4. Use `prompt()` to collect user input
+5. Display the result back on the page with `textContent`
+
+Example pattern:
+
+```js
+const btn = document.getElementById("prompt-btn");
+const output = document.getElementById("output");
+
+btn.addEventListener("click", () => {
+  const userName = prompt("What is your name?");
+  output.textContent = `Hello, ${userName}, keep up the great work!`;
+});
